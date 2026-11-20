@@ -130,8 +130,8 @@ Developed & Maintained by **Arya Fatthurahman** ([@devarent](https://github.com/
 
 ```bash
 # 1. Clone Repository
-git clone https://github.com/devarent/quantum-hybrid-resornizations-databricks-snowflake.git
-cd quantum-hybrid-resornizations-databricks-snowflake
+git clone https://github.com/devarent/quantum-hybrid-ml-databricks-snowflake.git
+cd quantum-hybrid-ml-databricks-snowflake
 
 # 2. Install Python Dependencies
 pip install -r requirements.txt
